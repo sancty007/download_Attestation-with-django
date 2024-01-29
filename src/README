@@ -1,0 +1,10 @@
+POUR DEMARRER LE PROJET, veuillez suivre ses instructions : 
+- clonner le projet depuis mon depot github
+- executer cette commande : npx tailwindcss -i ./input.css -o ./output.css --watch
+- ouvrir le projet dans votre navigateur
+
+
+NB : ce projet a été developpé avec les technologie ci dessous : 
+- HTML et Tailwind css pour la mise en forme 
+- Javascript
+- la bibliothèque html2pdf pour generation du document 

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:ital,wght@0,400;1,300;1,400&display=swap');
+@import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.formdiv{
+    @apply h-screen w-full bg-slate-900 flex justify-center items-center
+}
+.input{
+    @apply border outline-none p-3 mt-3 border-slate-900 w-full
+}
